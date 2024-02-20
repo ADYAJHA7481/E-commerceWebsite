@@ -8,7 +8,7 @@ This is a basic e-commerce website built using HTML and CSS only. It features a 
 - **Homepage:** Displaying a list of products with their names, prices, and images.
 - **About Page:** Showing detailed information about a selected product.
 - **Shopping Cart:** Allowing users to add products to their cart and view the total price.
-- contact:** To know more about it contact me. 
+- **Contact:** To know more about it contact me. 
 
 ## Technologies Used:
 
